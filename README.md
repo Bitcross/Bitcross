@@ -10,11 +10,11 @@ I've got a few pinned projects, but my favorite is [my agency website](https://w
 
 I've been active as a freelancer in my community since 2020, but I'm just now deciding that building a github database is important. 😅
 
-####Fun Facts:
+#### Fun Facts:
 * I don't like coffee unless it's mostly cream and sugar.
 * I love gaming and anime
 * I have a Cowboy Bebop half-sleeve tattoo on my left arm.
-* #####Hobbies: gaming, anime, podcasting, messing with AI tools
+* **Hobbies**: gaming, anime, podcasting, messing with AI tools
 <!--
 **Bitcross/Bitcross** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
